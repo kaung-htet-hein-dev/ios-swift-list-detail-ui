@@ -12,17 +12,18 @@ A modern iOS application built with SwiftUI featuring a beautiful grid layout in
 
 ## Screenshots
 
-### Main Grid View
-
-![Grid View](preview/p1.png)
-
-### Detail View
-
-![Detail View](preview/p2.png)
-
-### Additional View
-
-![Additional View](preview/p3.png)
+<table>
+  <tr>
+    <td><img src="preview/p1.png" alt="Main Grid View" height="400"/></td>
+    <td><img src="preview/p2.png" alt="Detail View" height="400"/></td>
+    <td><img src="preview/p3.png" alt="Additional View" height="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Main Grid View</b></td>
+    <td align="center"><b>Detail View</b></td>
+    <td align="center"><b>Additional View</b></td>
+  </tr>
+</table>
 
 ## Project Structure
 
