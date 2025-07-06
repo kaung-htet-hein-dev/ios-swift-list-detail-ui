@@ -33,7 +33,6 @@ struct GridView: View {
                     }
                 }
             }
-            .scrollIndicators(ScrollIndicatorVisibility.hidden)
         }
         
     }
