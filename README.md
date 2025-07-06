@@ -10,22 +10,6 @@ A modern iOS application built with SwiftUI featuring a beautiful grid layout in
 - **Modern UI**: Beautiful, native iOS design with smooth animations
 - **Technology Icons**: High-quality icons representing different iOS frameworks and tools
 
-## Technologies & Frameworks
-
-The app showcases various iOS technologies including:
-
-- SwiftUI
-- ARKit
-- CoreML
-- HealthKit
-- MapKit
-- Metal
-- SiriKit
-- SpriteKit
-- WidgetKit
-- CloudKit
-- And many more...
-
 ## Screenshots
 
 ### Main Grid View
