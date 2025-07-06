@@ -29,7 +29,6 @@ struct DetailView: View {
             .padding(.horizontal)
             .padding(.top)
             
-            
             ScrollView {
                 GridItemView(item: item)
                 Text(item.description)
